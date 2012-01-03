@@ -1,0 +1,265 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<title>刁轶夫的个人资料 新浪微博-随时随地分享身边的新鲜事儿</title>
+<noscript>
+<meta http-equiv="refresh" content="0;url=/home?nojs=1">
+</noscript>
+<meta name="application-name" content="新浪微博"/> 
+<meta name="msapplication-tooltip" content="新浪微博" />
+<meta name="msapplication-window" content="width=1024;height=768" />
+<meta name="msapplication-task" content="name=新浪微博;action-uri=http://weibo.com/;icon-uri=http://img.t.sinajs.cn/t4/style/images/common/favicon/home.ico" />
+<meta name="msapplication-task" content="name=我的微博;action-uri=http://weibo.com/1789744932/profile;icon-uri=http://img.t.sinajs.cn/t4/style/images/common/favicon/mypage.ico" />
+<meta name="msapplication-task" content="name=微博广场;action-uri=http://plaza.weibo.com;icon-uri=http://img.t.sinajs.cn/t4/style/images/common/favicon/square.ico" />
+<meta content="#2994ce" name="msapplication-navbutton-color" />
+<script type="text/javascript">
+  (function() {var loc = location.toString();var start = loc.indexOf('#!');if(start != -1){location.replace(loc.substr(start + 2).replace(/\:/g, ''));}})();
+  </script> <script type="text/javascript">
+  try{document.execCommand("BackgroundImageCache", false, true);}catch(e){}
+  </script>
+	  	  <link href="http://img.t.sinajs.cn/t4/style/css/module/base/frame.css?version=1325386305" type="text/css" rel="stylesheet" charset="utf-8" />
+	  <link href="http://img.t.sinajs.cn/t4/style/css/patch/narrow/index.css?version=1325386305" type="text/css" rel="stylesheet" charset="utf-8" />  
+	  	  	  	<link id="skin_transformers" href="http://img.t.sinajs.cn/t4/skin/skin016/skin_narrow.css?version=1325386305" type="text/css" rel="stylesheet" charset="utf-8" />
+	  <script type="text/javascript">
+var $CONFIG = {};
+$CONFIG['islogin'] = '1',
+$CONFIG['setCover'] = 1;//ie6hack
+$CONFIG['oid'] = '1243080815';
+$CONFIG['onick'] = '刁轶夫';
+$CONFIG['allowConnect'] = 'false';
+$CONFIG['uid'] = '1789744932';
+$CONFIG['nick'] = 'foxxcyb';
+$CONFIG['domain'] = '1789744932';
+$CONFIG['weihao'] = '';
+$CONFIG['sex'] = 'm';
+$CONFIG['afterupgrade'] = 'false';
+$CONFIG['version'] = '1325386305';
+$CONFIG['bigpipe'] = 'true';
+$CONFIG['timeDiff'] = (new Date() - 1325516955000);
+$CONFIG['product'] = 'v4mblog';
+$CONFIG['pageid'] = 'content_info';
+$CONFIG['skin'] = 'skin016';
+$CONFIG['background'] = ""; 
+$CONFIG['scheme'] = ""; 
+$CONFIG['colors_type'] = "";
+$CONFIG['lang'] = 'zh-cn';
+$CONFIG['jsPath'] = 'http://js.t.sinajs.cn/t4/';
+$CONFIG['cssPath'] = 'http://img.t.sinajs.cn/t4/';
+$CONFIG['imgPath'] = 'http://img.t.sinajs.cn/t4/';
+$CONFIG['servertime'] = 1325516955;
+$CONFIG['any'] = "&wvr=3.6";
+$CONFIG['$webim'] = 1;
+$CONFIG['location'] = 'info';
+$CONFIG['isnarrow'] = '1';
+$CONFIG['mJsPath'] = ['http://js{n}.t.sinajs.cn/t4/', 1, 2];
+$CONFIG['mCssPath'] = ['http://img{n}.t.sinajs.cn/t4/', 1, 2];
+$CONFIG['enterprise']='';
+	
+</script>
+  <script src="http://js.t.sinajs.cn/STK/js/gaea_1_15.js" type="text/javascript" ></script>
+</head>
+<body class="B_my_profile_other">
+<div class="W_miniblog">
+<div id="pl_content_top">
+<!--顶部导航-->
+ <div class="global_header">
+ <div class="header clearfix">
+ <div class="logo"><a href="/"></a></div>
+ <ul class="list">
+ <li ><a tabindex="4" href="/u/1789744932" bpfilter="main" class="link" node-type='home'>首页</a></li>
+ <li node-type="plaza"><a tabindex="4" href="http://plaza.weibo.com?topnav=1&wvr=3.6" class="link">广场<span class="W_arr_d"><em class="b1"></em><em class="b2"></em><em class="b3"></em></span> </a>
+ <div class="layer_topmenu_list layer_topmenu_list_yy" style="width: 135px; display: none;" node-type="layerPlaza">
+ <div class="func">
+ <span><a href="/jx/pic.php?topnav=1&wvr=3.6">微博精选</a></span>广场
+ </div>
+ <div node-type="plazaContent"></div>
+ <div class="func func_up">
+ <span><a href="http://plaza.weibo.com?topnav=1&wvr=3.6" class="more">查看更多有趣内容</a></span>
+ </div>
+ </div>
+ </li>
+ 
+ <li node-type="group"><a tabindex="4" href="http://q.weibo.com?topnav=1&wvr=3.6" class="link">微群<span class="W_arr_d"><em class="b1"></em><em class="b2"></em><em class="b3"></em></span></a>
+  <div node-type="layerGroup" style="width: 270px; display: none;" class="layer_topmenu_list layer_topmenu_list_yy">
+  <div class="func"><span><a class="more" href="http://q.weibo.com?topnav=1">发现微群</a></span>我的微群</div>
+  <div node-type="groupContent"></div>
+  <div class="func func_up"><span><a class="more" href="http://q.weibo.com/profile?topnav=1">管理/查看更多微群</a></span></div>
+  </div>
+ </li>
+ <li node-type="app"><a tabindex="4" href="/app?topnav=1&wvr=3.6" class="link W_no_outline">应用<span class="W_arr_d"><em class="b1"></em><em class="b2"></em><em class="b3"></em></span></a>
+  <div class="layer_topmenu_list layer_topmenu_list_app" node-type="layerApp" style="position:absolute; top:33px; left:-329px;display:none;">
+  <div node-type="appContent" class="border clearfix">
+  </div>
+  </div>
+ </li>
+ <li node-type="game"><a tabindex="4" href="http://game.weibo.com?origin=2303&topnav=1&wvr=3.6" class="link W_no_outline">游戏<span class="W_arr_d"><em class="b1"></em><em class="b2"></em><em class="b3"></em></span></a>
+  <div style="display: none;" class="layer_topmenu_list layer_topmenu_list_yy" node-type="layerGame">
+  <div class="func"><span><a class="more" href="http://game.weibo.com/home/recommend/game?origin=2304">浏览热门游戏</a></span>常用游戏</div>
+  <div node-type="gameContent"></div>
+  <div class="func func_up"><span><a class="more" href="http://game.weibo.com/home/game/my?origin=2002 ">查看我的游戏</a></span></div>
+  </div>
+ </li>
+ </ul>
+ <div class="search" >
+  <input tabindex="4" title="搜索文本框" node-type="searchInput" type="text" class="input W_no_outline" value="" maxlength="40" /><a tabindex="4" title="搜索按钮" href="javascript:void(0)" onclick="return false" class="btn" node-type="searchSubmit"></a>
+  <div class="W_layer_suggest" style="top: 27px; left: 0px; display: none; " node-type="searchSuggest">
+  <div node-type="basic"></div>
+  <div node-type="plus"></div>
+  </div>
+ </div>
+ <div class="right">
+ <ul class="person">
+	<li node-type="account">
+  <a tabindex="4" href="javascript:void(0)" class="link W_no_outline">帐号<span class="W_arr_d"><em class="b1"></em><em class="b2"></em><em class="b3"></em></span></a>
+  <div class="layer_topmenu_list" node-type="layerAccount" style="display:none">
+  <dl class="person_infos">
+ <dt><img height="30" width="30" alt="foxxcyb" src="http://tp1.sinaimg.cn/1789744932/50/0/1"></dt>
+ <dd><a href="/1789744932/profile?topnav=1&wvr=3.6">foxxcyb</a></dd>
+  </dl>
+  <ul>
+ <li class="line"></li>
+ <li><a href="http://account.weibo.com/settings/index?topnav"><img src="http://img.t.sinajs.cn/t4//style/images/common/transparent.gif" alt="帐号设置" class="ico_account" width="16" height="16" />帐号设置</a></li>
+ <li><a href="/home?skinId=setskin&topnav=1&wvr=3.6"><img src="http://img.t.sinajs.cn/t4//style/images/common/transparent.gif" alt="模板设置" class="ico_template" width="16" height="16" />模板设置</a></li>
+	<li><a href="http://account.weibo.com/settings/version?topnav"><img src="http://img.t.sinajs.cn/t4//style/images/common/transparent.gif" alt="版本选择" class="ico_versionchoice" width="16" height="16" />版本选择</a></li>
+	<li class="line"></li>
+ <li><a href="http://credits.weibo.com?topnav=1&wvr=3.6"><img src="http://img.t.sinajs.cn/t4//style/images/common/transparent.gif" alt="我的微币" class="ico_credits" width="16" height="16" />我的微币</a></li>
+	<li><a href="http://hao.weibo.com/show?entry=account&wvr=3.6"><img src="http://img.t.sinajs.cn/t4//style/images/common/transparent.gif" alt="我的微号" class="ico_hao" width="16" height="16" />我的微号</a></li>
+ <li><a href="/tool?topnav=1&wvr=3.6"><img src="http://img.t.sinajs.cn/t4//style/images/common/transparent.gif" alt="我的工具" class="ico_toolset" width="16" height="16" />我的工具</a></li>
+ <li class="line"></li>
+ <li><a node-type="exit" href="http://weibo.com/logout.php?backurl=/">退出</a></li>
+  </ul>
+  </div>
+  </li>
+  
+  <li node-type="notice">
+  <a tabindex="4" href="javascript:void(0)" class="link W_no_outline">消息<span class="W_arr_d"><em class="b1"></em><em class="b2"></em><em class="b3"></em></span></a>
+  <div class="layer_topmenu_list" node-type="layerNotice" style="width:190px;display:none;">
+  <div node-type="noticeContent"></div>
+  </div>
+  </li>
+	<li node-type="find"><a tabindex="4" href="/f/find?topnav=1&wvr=3.6" class="link">找人</a></li>
+  <li node-type="phone"><a tabindex="4" href="/mobile/cellphone?topnav=1&wvr=3.6" class="link">手机</a></li>
+  <li ><a tabindex="4" href="/1789744932/profile?topnav=1&wvr=3.6" class="link">foxxcyb</a></li>
+ </ul>
+ </div>
+ </div>
+</div>
+<!--/顶部导航-->
+</div>
+<div class="W_main_narrow">
+<div class="W_main_narrow_bg clearfix">
+<div id='plc_main'><div class="W_main_c">
+ 	<div id="pl_content_hisPersonalInfo"></div>
+ 	<div class="custom_content_bg">
+ 	<div class="newFilter W_texta"><div class="nfTagB clearfix"><ul><li><a href="/diaoyifu">微博</a></li><li><a href="/u/1243080815/xinqing/">心情</a></li><li class="current"><span>他的资料</span></li></ul></div></div>
+ <div class="person_info_list" id="pl_content_hisData"></div>
+ </div>
+ </div>
+<div class="W_main_r">
+<div id="pl_content_setskin"></div>
+ <div id='pl_content_litePersonInfo'></div>
+ <!--勋章-->
+ <div id='pl_content_medal' medalConf="uid=1243080815"></div>
+ <!--/勋章-->
+<div id="pl_content_userInfo"></div>
+ 	<!--这些人也关注她-->
+ <div id='pl_content_chainFollowers' ucardconf="type=1"></div>
+ <!--/这些人也关注她-->
+ <!--共同关注-->
+ <div id='pl_content_sameFriends' ucardconf="type=1"></div>
+ <!--/共同关注-->
+ <!--他的标签-->
+ <div id='pl_content_hisTags'></div>
+ <!--/他的标签-->
+ <!--关注的话题-->
+	<div id="pl_content_topic"></div>
+	<!--/关注的话题-->
+ <!--粉丝-->
+ <div id='pl_content_hisFans' ucardconf="type=1"></div>
+ <!--/粉丝-->
+ <!--意见反馈-->
+	<div id="pl_common_feedback"></div>
+	<!--意见反馈-->
+ <!--举报和黑名单-->
+	<div id="pl_content_hisOperationPlate"></div>
+	<!--举报和黑名单-->
+</div></div>
+</div>
+</div>
+<div class="global_footer global_footer_narrow">
+<div class="clearfix">
+	<dl class="list">
+	<dt>找找感兴趣的人</dt>
+	<dd><a href="http://weibo.com/pub/star ">名人堂</a>　<a href="http://weibo.com/pub/star/mediumlist.php ">媒体汇</a></dd>
+	<dd><a href="http://weibo.com/pub/star/brandlist.php">品牌馆</a>　<a href="http://weibo.com/pub/star/governmenthall.php ">政务厅</a></dd>
+	<dd><a href="http://weibo.com/pub/star/websitelist.php ">网站荟</a>　<a href="http://weibo.com/pub/star/schoollist.php ">校园</a> <a href="http://weibo.com/pub/star/agencylist.php ">机构</a></dd>
+	<dd><a href="http://club.weibo.com">微博达人</a></dd>
+	<dd><a href="http://weibo.com/f/find/guess ">猜你喜欢</a></dd>
+	</dl>
+	<dl class="list">
+	<dt>精彩内容</dt>
+	<dd><a href="http://weibo.com/pub/topic">微话题</a>　<a href="http://data.weibo.com/top">风云榜</a></dd>
+	<dd><a href="http://talk.weibo.com">微访谈</a>　<a href="http://live.weibo.com">微直播</a></dd>
+	<dd><a href="http://plaza.weibo.com">微博精选</a></dd>
+	<dd><a href="http://weibo.com/pub/news ">随便看看</a></dd>
+	<dd><a href="http://weibo.com/pub/city ">同城微博</a></dd>	
+	</dl>
+	<dl class="list">
+	<dt>热门应用</dt>
+	<dd><a href="http://q.weibo.com">微群</a>　　<a href="http://game.weibo.com">游戏</a></dd>
+	<dd><a href="http://photo.weibo.com">相册</a>　　<a href="http://music.weibo.com/t/index.php">微音乐</a></dd>
+	<dd><a href="http://event.weibo.com">微活动</a>　<a href="http://vote.weibo.com">投票</a> 
+	<dd><a href="http://radio.weibo.com">微电台</a>　<a href="http://screen.weibo.com/">大屏幕</a> 
+	</dl>
+	<dl class="list">
+	<dt>手机玩微博</dt>
+	<dd><a href="http://weibo.com/mobile/wap.php">手机WAP版</a></dd>
+	<dd><a href="http://weibo.com/mobile/msg.php">短信彩信发微博</a></dd>
+	<dd><a href="http://weibo.com/mobile/iphone.php">iPhone客户端</a></dd>
+	<dd><a href="http://weibo.com/mobile/android.php">Android客户端</a></dd>
+	<dd><a href="http://weibo.com/mobile/s60.php">Symbian客户端</a></dd>
+	</dl>
+	<dl class="list list_right">
+	<dt>认证&合作</dt>
+	<dd><a href="http://weibo.com/verify">申请认证</a></dd>
+	<dd><a href="http://open.weibo.com/">开放平台</a></dd>
+	<dd><a href="http://a.weibo.com/proc/productintro.php">企业微博</a></dd>
+	<dd><a href="http://weibo.com/app/website">连接网站</a></dd>
+	<dd><a href="http://weibo.com/static/logo">微博标识使用规范</a></dd>
+	</dl>
+</div>	<div class="other_link clearfix">
+	<div class="help_link">
+		<p><a href="http://help.weibo.com/?refer=didao" class="ico_service" target="__blank">微博帮助</a>　<a href="http://weibo.com/zt/s?k=9286" target="__blank">意见反馈</a>　<a href="http://open.weibo.com/" target="__blank">开放平台</a>　<a href="http://hr.weibo.com" target="__blank">微博招聘</a>　<a href="http://news.sina.com.cn/guide/" target="__blank">新浪网导航</a>　<a href="javascript:void(0);" onclick="javascript:window.open('/reportspam?type=4&url=http%3A%2F%2Fweibo.com%2Fdiaoyifu%2Finfo', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=no, resizable=yes, location=no, status=no');">不良信息举报</a></p>
+		<p>北京微梦创科网络技术有限公司&emsp;<a href="http://weibo.com/aj/static/jww.html" target="_blank">京网文[2011]0398-130号</a>&emsp;<a href="http://www.miibeian.gov.cn" target="_blank">京ICP证100780号</a></p>
+	</div>
+	<div class="copy">
+		<p class="W_linkb">
+		<select id="pl_content_changeLanguage" class="htc_select"><option value="zh-cn" selected>中文(简体)</option><option value="zh-tw">中文(繁体)</option></select>
+		</p>
+		<p>Copyright &copy; 1996-2012 SINA</p>
+	</div>
+	</div>
+</div>
+<a href="javascript:;" id="base_scrollToTop" class="W_gotop">
+<span><em class="sj">&diams;</em><em class="fk">▐</em>返回顶部</span>
+</a> </div>
+<div id="pl_content_Base" style="display:none"></div>
+</body>
+<script src="http://js.t.sinajs.cn/t4/home/js/base.js?version=1325386305" type="text/javascript" ></script>
+	<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_top","js":["home\/js\/pl\/content\/top.js?version=1325386305"]})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_hisPersonalInfo","js":["home\/js\/pl\/content\/hisPersonalInfo.js?version=1325386305"],"css":["style\/css\/module\/global\/person_info_big.css?version=1325386305","style\/css\/module\/layer\/layer_perlist.css?version=1325386305","style\/css\/module\/forms\/send_weibo.css?version=1325386305","style\/css\/module\/layer\/layer_send_weibo.css?version=1325386305","style\/css\/module\/combination\/A_layer_send_weibo.css?version=1325386305","style\/css\/module\/layer\/layer_setup.css?version=1325386305","style\/css\/module\/layer\/layer_invite.css?version=1325386305","style\/css\/module\/layer\/layer_attention_choose.css?version=1325386305","style\/css\/module\/global\/group_read.css?version=1325386305","style\/css\/module\/list\/suggested_follows.css?version=1325386305","style\/css\/module\/list\/suggested_list.css?version=1325386305","style\/css\/module\/list\/suggested_follows.css?version=1325386305","style\/css\/module\/list\/suggested_list.css?version=1325386305"],"html":"<!--\u4e2a\u4eba\u8d44\u6599-->\n<div class=\"perAll_info clearfix\">\n\t<div class=\"face\"><img src=\"http:\/\/tp4.sinaimg.cn\/1243080815\/180\/1282446775\/1\" alt=\"\u5201\u8f76\u592b\" \/><\/div>\n\t<div class=\"detail\">\n\t<div class=\"name clearfix\">\n\t\t<div class=\"left\">\n\t\t\u5201\u8f76\u592b\n\t\t<\/div>\n\t<\/div>\n\t<p>\n\t\t\n\t\t<p><a href=\"\/diaoyifu\" class=\"online\">http:\/\/weibo.com\/diaoyifu<\/a><\/p>\n\t<\/p>\n\t<p><img width=\"11\" height=\"12\" class=\"male\" src=\"http:\/\/img.t.sinajs.cn\/t4\/style\/images\/common\/transparent.gif\" title=\"\u7537\">&nbsp;\u6d59\u6c5f\uff0c\u676d\u5dde<\/p>\n\t<p>\u559c\u5206\u5206Xifenfen.com\u521b\u59cb\u4eba\uff0c\u4e2a\u6027\u5316\u9605\u8bfb\uff0c\u5206\u4eab\u53ca\u6536\u85cf\u793e\u533a\u3002<\/p>\n\t\t<div class=\"concern clearfix\">\n\t\t<div class=\"handle_btn\" diss-data=\"refer_sort=profile&refer_flag=\">\n\t\t\t<a suda-data=\"key=tblog_attention_click&value=1243080815\" class=\"W_btn_b\" title=\"\u52a0\u5173\u6ce8\" action-type=\"follow\" action-data=\"uid=1243080815&fnick=\u5201\u8f76\u592b\" href=\"javascript:void(0);\"><span><img src=\"http:\/\/img.t.sinajs.cn\/t4\/style\/images\/common\/transparent.gif\" class=\"icon_add addbtn_b\">\u52a0\u5173\u6ce8<\/span><\/a>\n\t\t \n\t\t<\/div>\n\t  <div class=\"handle_more\">\n  <span>\n\t  \t  <a href=\"javascript:void(0);\" action-type=\"recommend\">\u63a8\u8350\u7ed9\u670b\u53cb<\/a>\n    <\/span>\n  <a href=\"javascript:void(0);\" class=\"W_moredown\" action-type=\"more\" style=\"display:none;\">\n    <span class=\"txt\" node-data=\"more\">\u66f4\u591a<\/span>\n  \t  <span class=\"more\"><\/span><\/a>\n  <\/a>\n  <\/div>\n  <ul class=\"handle_menu\" style=\"display:none;\">\n  <\/ul>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n<!--\/\u4e2a\u4eba\u8d44\u6599-->\n<!--\u52a0\u5173\u6ce8\u63a8\u8350\u5c42 -->\n<div node-type=\"suggestedFollows\" class=\"suggested_follows\"><\/div>\n<!--\/\u52a0\u5173\u6ce8\u63a8\u8350\u5c42 -->"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_userInfo","js":[],"css":["style\/css\/module\/global\/right_module.css?version=1325386305","style\/css\/module\/list\/topic_list.css?version=1325386305"],"html":"<div class=\"W_rightModule\">\n<div class=\"title\">\u4e2a\u4eba\u8d44\u6599<\/div>\n<ul class=\"topic_list clearfix W_textb\">\n\t\t<li><span class=\"W_linkdot\"><\/span><a href=\"http:\/\/s.weibo.com\/user\/&type=work&work=bookiki.net\">bookiki.net<\/a><\/li>\n\t\t<li><span class=\"W_linkdot\"><\/span><a href=\"http:\/\/s.weibo.com\/user\/&type=work&work=%E5%96%9C%E5%88%86%E5%88%86Xifenfen.com\">\u559c\u5206\u5206Xifenfen.com<\/a><\/li>\n\t\t<li><span class=\"W_linkdot\"><\/span><a href=\"http:\/\/s.weibo.com\/user\/&type=school&school=%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6\">\u6d59\u6c5f\u5927\u5b66<\/a><\/li>\n\t<\/ul>\n<div class=\"more\"><\/span><a href=\"\/1243080815\/info\">\u66f4\u591a<\/a><\/div>\n<\/div>\n"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_hisData","js":[],"css":["style\/css\/module\/global\/person_info_big.css?version=1325386305","style\/css\/module\/list\/person_info_list.css?version=1325386305"],"html":"<dl>\n\t<dt class=\"W_bgcolor clearfix\">\n\t\t<strong>\u57fa\u672c\u4fe1\u606f<\/strong>\n\t<\/dt>\n\t\t<dd>\n\t<ul>\n\t\t\t<li>\u751f\u65e5\uff1a\u767d\u7f8a\u5ea7<\/li>\n\t\t\t\n\t<\/ul>\n\t<\/dd>\n\t\n\t<!-- \u4f01\u4e1a\u5fae\u535a\u4e0d\u663e\u793a\u6559\u80b2\u53ca\u5de5\u4f5c\u4fe1\u606f -->\n\t\t<dt class=\"W_bgcolor clearfix\">\n\t<strong>\u6559\u80b2\u4fe1\u606f<\/strong>\n\t\t\t<\/dt>\n\t\t\n\t\t\n\t\t\n\t\t<dd>\n\t<ul>\n\t\t\t<li>\n\t<span class=\"title\">\u5927\u5b66\uff1a<\/span>\n\t<div class=\"detail\">\n\t\t\t<p>\n\t\t<a class=\"name\" href=\"http:\/\/s.weibo.com\/user\/&school=%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6\">\u6d59\u6c5f\u5927\u5b66<\/a> (2006\u5e74)\t\t<br>\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\n\t\t<\/p>\n\t\t\t<p>\n\t\t<a class=\"name\" href=\"http:\/\/s.weibo.com\/user\/&school=Carnegie+Mellon+University\">Carnegie Mellon University<\/a> (2010\u5e74)\t\t<br>Computer Science\n\t\t<\/p>\n\t\t\t<\/div>\n\t<\/li>\n\t\t\t<\/ul>\n\t\t<\/dd>\n\t\n\t\t\t<dt class=\"W_bgcolor clearfix\">\n\t<strong>\u5de5\u4f5c\u4fe1\u606f<\/strong>\n\t\t\t<\/dt>\n\t\t\t<dd>\n\t<ul>\n\t<li>\n\t\t<span class=\"title\">\u516c\u53f8\uff1a<\/span>\n\t\t<div class=\"detail\">\n\t<p>\n\t\t\t<a href=\"http:\/\/s.weibo.com\/user\/&work=bookiki.net\">bookiki.net<\/a>\n\t(2009 - \n\t\t\t2010\t\t\t)\n\t\t\t<br>\u5730\u533a\uff1a\u6d59\u6c5f \uff0c\u676d\u5dde\t\t\t<br>\u804c\u4f4d\uff1a\u521b\u59cb\u4eba\t\t<\/p>\n\t<p>\n\t\t\t<a href=\"http:\/\/s.weibo.com\/user\/&work=%25E5%2596%259C%25E5%2588%2586%25E5%2588%2586Xifenfen.com\">\u559c\u5206\u5206Xifenfen.com<\/a>\n\t(2011 - \n\t\t\t\u81f3\u4eca\t\t\t)\n\t\t\t<br>\u5730\u533a\uff1a\u6d59\u6c5f \uff0c\u676d\u5dde\t\t\t<br>\u804c\u4f4d\uff1a\u521b\u59cb\u4eba\t\t<\/p>\n\t\t\t<\/div>\n\t<li>\n\t<\/ul>\n\t\t<\/dd>\n\t<!-- \/\/\u4f01\u4e1a\u5fae\u535a\u4e0d\u663e\u793a\u6559\u80b2\u53ca\u5de5\u4f5c\u4fe1\u606f -->\n\t<\/dl>"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_litePersonInfo","js":["home\/js\/pl\/content\/litePersonInfo.js?version=1325386305"],"css":["style\/css\/module\/global\/person_info.css?version=1325386305","style\/css\/module\/global\/person_count.css?version=1325386305","style\/css\/module\/global\/sina_vip.css?version=1325386305"],"html":"<!--\u4e2a\u4eba\u4fe1\u606f\u7edf\u8ba1-->\n<div class=\"W_rightModule\">\n<ul class=\"user_atten clearfix \">\n  <li><a href=\"\/1243080815\/follow\"><strong node-type=\"follow\">447<\/strong><span>\u5173\u6ce8<\/span><\/a><\/li>\n  <li><a href=\"\/1243080815\/fans\"><strong node-type=\"fans\">536<\/strong><span>\u7c89\u4e1d<\/span><\/a><\/li>\n  <li class=\"W_no_border\"><a href=\"\/diaoyifu\"><strong node-type=\"weibo\">341<\/strong><span>\u5fae\u535a<\/span><\/a><\/li>\n<\/ul>\n<\/div>\n<!--\/\u4e2a\u4eba\u4fe1\u606f\u7edf\u8ba1-->"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_medal","js":["home\/js\/pl\/content\/medal.js?version=1325386305"],"css":["\/style\/css\/module\/layer\/layer_honour.css?version=1325386305"],"html":"<!--\u52cb\u7ae0-->\n\t<div class=\"W_rightModule\">\n  <div class=\"declist\">\n  \t  \t<p style=\"display:none;\" class=\"count\"><a href=\"http:\/\/badge.weibo.com\/1243080815\">\u5168\u90e8\u52cb\u7ae01\u679a<\/a><\/p>\n  \t <ul class=\"clearfix\">\n  <li ><a title=\"\u8c08\u7b11\u98ce\u751f\" href=\"http:\/\/badge.weibo.com\/1243080815?mid=8&source=7\"><img medalcard=\"8\" src=\"http:\/\/img.t.sinajs.cn\/t4\/style\/images\/medal\/8_s.gif?version=201112261811\" width=\"24\" height=\"24\" title=\"\u8c08\u7b11\u98ce\u751f\" alt=\"\u8c08\u7b11\u98ce\u751f\" \/><\/a><\/li>\n <\/ul>\n  <\/div>\n\t<\/div>\n<!--\/\u52cb\u7ae0-->\n"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_chainFollowers","js":["home\/js\/pl\/leftNav\/him.js?version=1325386305"],"css":["style\/css\/module\/global\/right_module.css?version=1325386305","style\/css\/module\/list\/face_name_list.css?version=1325386305"],"html":"<div class=\"W_rightModule\">\n<div class=\"title\"><a href=\"\/1243080815\/fans?relate=second_follow\">\u8fd9\u4e9b\u4eba\u4e5f\u5173\u6ce8\u4ed6<\/a><span\n\tclass=\"ft12 CH W_textb\">(1)<\/span><\/div>\n<ul class=\"face_name clearfix\">\n\t<li><a href=\"\/xifenfen\" class=\"per\" title=\"\u559c\u5206\u5206\"><img src=\"http:\/\/tp1.sinaimg.cn\/2251954824\/50\/5613646034\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" alt=\"\u559c\u5206\u5206\" usercard=\"id=2251954824\"\/><span class=\"name\" usercard=\"id=2251954824\">\u559c\u5206\u5206<\/span><\/a><\/li>\n\t<\/ul>\n<div class=\"more\"><a href=\"\/1243080815\/fans?relate=second_follow\">\u66f4\u591a\u00bb<\/a><\/div>\n<\/div>\n"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_sameFriends","js":["home\/js\/pl\/leftNav\/him.js?version=1325386305"],"css":["style\/css\/module\/global\/right_module.css?version=1325386305","style\/css\/module\/list\/face_name_list.css?version=1325386305"],"html":"<div class=\"W_rightModule\">\n<div class=\"title\"><a href=\"\/1243080815\/follow?tag=1\">\u6211\u548c\u4ed6\u90fd\u5173\u6ce8\u4e86<\/a><span\n\tclass=\"ft12 CH W_textb\">(2)<\/span><\/div>\n<ul class=\"face_name clearfix\">\n\t<li><a href=\"\/xifenfen\" class=\"per\" title=\"\u559c\u5206\u5206\"><img src=\"http:\/\/tp1.sinaimg.cn\/2251954824\/50\/5613646034\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" alt=\"\u559c\u5206\u5206\" usercard=\"id=2251954824\"\/><span class=\"name\" usercard=\"id=2251954824\">\u559c\u5206\u5206<\/span><\/a><\/li>\n\t<li><a href=\"\/gavinni\" class=\"per\" title=\"\u502a\u6b63\u4e1c\"><img src=\"http:\/\/tp4.sinaimg.cn\/1756881315\/50\/5615648228\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" alt=\"\u502a\u6b63\u4e1c\" usercard=\"id=1756881315\"\/><span class=\"name\" usercard=\"id=1756881315\">\u502a\u6b63\u4e1c<\/span><\/a><\/li>\n\t<\/ul>\n<div class=\"more\"><a href=\"\/1243080815\/follow?tag=1\">\u66f4\u591a\u00bb<\/a><\/div>\n<\/div>\n"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_hisTags","js":[],"css":["style\/css\/module\/global\/right_module.css?version=1325386305","style\/css\/module\/list\/tags_list.css?version=1325386305"],"html":"<div class=\"W_rightModule\">\n<div class=\"title W_textb\">\u4ed6\u7684\u6807\u7b7e<span class=\"ft12\">(6)<\/span><\/div>\n  <div class=\"tags_list W_textb\">\n  <span><a href=\"http:\/\/s.weibo.com\/user\/&tag=%E4%BF%A1%E6%81%AF%E6%A3%80%E7%B4%A2\" class=\"ft14 ft_b\">\u4fe1\u606f\u68c0\u7d22<\/a><\/span><span><a href=\"http:\/\/s.weibo.com\/user\/&tag=%E5%96%9C%E5%88%86%E5%88%86\" class=\"ft12\">\u559c\u5206\u5206<\/a><\/span><span><a href=\"http:\/\/s.weibo.com\/user\/&tag=Bookiki\" class=\"ft12 ft_b\">Bookiki<\/a><\/span><span><a href=\"http:\/\/s.weibo.com\/user\/&tag=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0\" class=\"ft18\">\u673a\u5668\u5b66\u4e60<\/a><\/span><span><a href=\"http:\/\/s.weibo.com\/user\/&tag=%E5%88%9B%E4%B8%9A\" class=\"ft16\">\u521b\u4e1a<\/a><\/span><span><a href=\"http:\/\/s.weibo.com\/user\/&tag=%E4%BA%92%E8%81%94%E7%BD%91\" class=\"ft14\">\u4e92\u8054\u7f51<\/a><\/span><\/div>\n<\/div>\n"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_topic","js":["home\/js\/pl\/content\/topic.js?version=1325386305"],"css":["style\/css\/module\/list\/topic_block.css?version=1325386305","style\/css\/module\/layer\/layer_add_tags.css?version=1325386305"],"html":"<div class=\"W_rightModule\">\n\t<div class=\"title\">\u5173\u6ce8\u7684\u8bdd\u9898<span class=\"ft12 W_textb\">(<span node-type=\"count\">0<\/span>)<\/span><\/div>\n\t<div class=\"topic_block\">\n\t<ul><\/ul>\n\t\t<p node-type=\"empty_tip\">\u4ed6\u8fd8\u6ca1\u6709\u5173\u6ce8\u4efb\u4f55\u8bdd\u9898<\/p>\n\t\t\n\t\t<div class=\"more\"> <\/div>\n\t\n\t<\/div>\n<\/div>\n"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_hisFans","js":[],"css":["style\/css\/module\/global\/right_module.css?version=1325386305","style\/css\/module\/list\/face_name_list.css?version=1325386305"],"html":"<div class=\"W_rightModule W_no_border\">\n<div class=\"title\"><a href=\"\/1243080815\/fans\">\u4ed6\u7684\u7c89\u4e1d<\/a><span\n\tclass=\"ft12 CH W_textb\">(536)<\/span><\/div>\n<ul class=\"face_name clearfix\" uCardConf=\"type=0\">\n\t<li><a href=\"\/1656283060\" class=\"per\" title=\"jianshengkyo\"><img usercard=\"id=1656283060\" title=\"jianshengkyo\" src=\"http:\/\/tp1.sinaimg.cn\/1656283060\/50\/5618811536\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" \/><span class=\"name\" usercard=\"id=1656283060\" >jianshengkyo<\/span><\/a><\/li>\n\t<li><a href=\"\/disonw\" class=\"per\" title=\"\u9648\u8fea\u5148\u751f\"><img usercard=\"id=2475512442\" title=\"\u9648\u8fea\u5148\u751f\" src=\"http:\/\/tp3.sinaimg.cn\/2475512442\/50\/5620129616\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" \/><span class=\"name\" usercard=\"id=2475512442\" >\u9648\u8fea\u5148\u751f<\/span><\/a><\/li>\n\t<li><a href=\"\/thindov\" class=\"per\" title=\"\u5c1a\u9053\u5fae\u8425\u9500\"><img usercard=\"id=2284668911\" title=\"\u5c1a\u9053\u5fae\u8425\u9500\" src=\"http:\/\/tp4.sinaimg.cn\/2284668911\/50\/5613984777\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" \/><span class=\"name\" usercard=\"id=2284668911\" >\u5c1a\u9053\u5fae\u8425\u9500<\/span><\/a><\/li>\n\t<li><a href=\"\/2644781882\" class=\"per\" title=\"\u920a\u9298_Miller\"><img usercard=\"id=2644781882\" title=\"\u920a\u9298_Miller\" src=\"http:\/\/tp3.sinaimg.cn\/2644781882\/50\/5620364791\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" \/><span class=\"name\" usercard=\"id=2644781882\" >\u920a\u9298_Miller<\/span><\/a><\/li>\n\t<li><a href=\"\/2438347411\" class=\"per\" title=\"\u8425\u9500\u5802\u6c99\u9f99\"><img usercard=\"id=2438347411\" title=\"\u8425\u9500\u5802\u6c99\u9f99\" src=\"http:\/\/tp4.sinaimg.cn\/2438347411\/50\/5620266708\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" \/><span class=\"name\" usercard=\"id=2438347411\" >\u8425\u9500\u5802\u6c99\u9f99<\/span><\/a><\/li>\n\t<li><a href=\"\/xysx1991\" class=\"per\" title=\"\u6b8b\u5251_xysx\"><img usercard=\"id=1918917823\" title=\"\u6b8b\u5251_xysx\" src=\"http:\/\/tp4.sinaimg.cn\/1918917823\/50\/5596806707\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" \/><span class=\"name\" usercard=\"id=1918917823\" >\u6b8b\u5251_xysx<\/span><\/a><\/li>\n\t<li><a href=\"\/1925567211\" class=\"per\" title=\"Littlesharp-noviced\"><img usercard=\"id=1925567211\" title=\"Littlesharp-noviced\" src=\"http:\/\/tp4.sinaimg.cn\/1925567211\/50\/5606609582\/1\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" \/><span class=\"name\" usercard=\"id=1925567211\" >Littlesharp-noviced<\/span><\/a><\/li>\n\t<li><a href=\"\/li78334\" class=\"per\" title=\"\u6734\u514b\u8428junjin175\"><img usercard=\"id=2503901712\" title=\"\u6734\u514b\u8428junjin175\" src=\"http:\/\/tp1.sinaimg.cn\/2503901712\/50\/5615222134\/0\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" \/><span class=\"name\" usercard=\"id=2503901712\" >\u6734\u514b\u8428junjin175<\/span><\/a><\/li>\n\t<li><a href=\"\/littlejacqueline\" class=\"per\" title=\"\u5c41\u4e4b\u5bf6\u963f\u8ed2\u4ed4\"><img usercard=\"id=1687069523\" title=\"\u5c41\u4e4b\u5bf6\u963f\u8ed2\u4ed4\" src=\"http:\/\/tp4.sinaimg.cn\/1687069523\/50\/5612806284\/0\" alt=\"\" width=\"50\" height=\"50\" class=\"headpic\" \/><span class=\"name\" usercard=\"id=1687069523\" >\u5c41\u4e4b\u5bf6\u963f\u8ed2\u4ed4<\/span><\/a><\/li>\n\t<\/ul>\n<div class=\"more\"><a href=\"\/1243080815\/fans\">\u66f4\u591a\u00bb<\/a><\/div>\n<\/div>\n"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_common_feedback","js":[],"css":["style\/css\/module\/list\/topic_list.css?version=1325386305"],"html":"<!--\u610f\u89c1\u53cd\u9988-->\n<div id=\"\" class=\"W_rightModule W_no_border\">\n  <div class=\"title\">\u65b0\u6d6a\u5fae\u535a\u610f\u89c1\u53cd\u9988<\/div>\n  <ul class=\"topic_list clearfix\">\n  <li>\u6b22\u8fce\u4f7f\u7528\u65b0\u6d6a\u5fae\u535a\u5e76\u63d0\u51fa\u5b9d\u8d35\u5efa\u8bae\u3002\u8bf7<a href=\"http:\/\/weibo.com\/zt\/s?k=9286\">\u70b9\u51fb\u8fd9\u91cc<\/a>\u63d0\u4ea4\u5fae\u535a\u610f\u89c1\u53cd\u9988\u3002<\/li>\n  <\/ul>\n <ul class=\"topic_list clearfix\">\n \t<li><a href=\"http:\/\/help.weibo.com\/faq\/45\">\u65b0\u7248\u5fae\u535a\u5e38\u89c1\u95ee\u9898\u89e3\u7b54<\/a><\/li>\n <\/ul>\n  <ul class=\"topic_list clearfix\">\n \t<li><a href=\"http:\/\/help.weibo.com\">\u5fae\u535a\u5ba2\u670d\u4e13\u533a<\/a><\/li>\n <\/ul>\n <ul class=\"topic_list clearfix\">\n \t<li><a href=\"http:\/\/news.sina.com.cn\/c\/2011-12-23\/141623682749.shtml\">\u300a\u5317\u4eac\u5e02\u5fae\u535a\u5ba2\u53d1\u5c55\u7ba1\u7406\u82e5\u5e72\u89c4\u5b9a\u300b<\/a><\/li>\n <\/ul>\n<\/div>\n<!--\u610f\u89c1\u53cd\u9988-->\n"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_hisOperationPlate","js":["home\/js\/pl\/content\/hisOperationPlate.js?version=1325386305"],"css":[],"html":"<div class=\"W_rightModule W_no_border\">\n\t<div class=\"black\"><a href=\"javascript:void(0);\" action-type=\"block\">\u52a0\u4ed6\u8fdb\u9ed1\u540d\u5355<\/a><\/div>\n\t<div class=\"report\"><a href=\"javascript:void(0);\" onclick=\"javascript:window.open('\/reportspam?rid=1243080815&type=3&url=http%3A%2F%2Fweibo.com%2Fdiaoyifu%2Finfo', 'newwindow', 'height=700, width=550, toolbar =yes, menubar=no, scrollbars=no, resizable=yes, location=no, status=no');\">\u4e3e\u62a5\u4ed6<\/a><\/div>\n\t<div class=\"exposure\"><a href=\"\/pub\/i\/zt\/wbpy\" target=\"_blank\">\u4e0d\u5b9e\u4fe1\u606f\u66dd\u5149<\/a><\/div>\n<\/div>"})</script>
+<script>STK && STK.pageletM && STK.pageletM.view({"pid":"pl_content_Base","js":["home\/js\/pl\/content\/changeLanguage.js?version=1325386305","home\/js\/pl\/content\/base.js?version=1325386305"],"css":[],"html":""})</script>
+</html>
